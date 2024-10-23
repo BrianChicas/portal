@@ -28,6 +28,7 @@ main.wrapper {
 }
 
 p {
+    color: #ffffff; 
     margin: 1em; /* Top Right Bottom Left (TRBL) */
 }
 
